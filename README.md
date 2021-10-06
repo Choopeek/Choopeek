@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Choopeek
 - 👀 I’m interested in learning Unity
-- 🌱 I’m currently learning basic programming course
+- 🌱 I've finished basic Unity Programming course. Now I try to finish my first project. It looks nice.
 - 💞️ I'm not looking for any colaboration right now
 - 📫 Saskamon@gmail.com FB Ivan Choopa
 
